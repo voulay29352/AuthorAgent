@@ -1,6 +1,6 @@
 {
   "name": "authoragent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The Autonomous AI Writing Agent \u2014 a secure, author-focused AI for fiction and nonfiction authors (Planning, Revision, Promotion, and more)",
   "main": "src/index.ts",
   "scripts": {
