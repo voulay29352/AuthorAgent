@@ -7,3 +7,4 @@ Notes and usage details for AuthorAgent.
 - add a note about the defaults
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
